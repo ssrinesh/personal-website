@@ -1,0 +1,161 @@
+*{
+	margin:0;
+	padding:0;
+}
+body{
+	font-family:verdana;
+	background-color:black;
+	color:lightgreen;
+}
+#header{
+	background-color:lightgreen;
+	height:100px;
+	width:100%;
+}
+#logo{
+	width:300px;
+	height:100px;
+	float:left;
+}
+#navigation{
+	width:550px;
+	height:100px;
+	float:right;
+	background-color:lightgreen;
+}
+#nav{
+	list-style:none;
+	margin-top:30px;
+}
+#nav a{
+	color:black;
+	text-decoration:none;
+}
+#nav li{
+	float:left;
+	margin-left:30px;
+	background-color:lightgreen;
+	padding:8px;
+	border:1px solid black;
+	border-radius:5px;
+}
+#nav li:hover{
+	background-color:springgreen;
+}
+.page{
+	background-color:black;
+	padding:20px;
+	padding-bottom:1px;
+	width:700px;
+	height:540px;
+	margin-left:auto;
+	margin-right:auto;
+}
+#footer{
+	background-color:lightgreen;
+	height:40px;
+	width:100%;
+	color:black;
+	padding-top:20px;
+	text-align:center;
+
+}
+ul, p{
+	margin-bottom:20px;
+}
+#home1{
+	top:200px;
+	left:100px;
+	position:absolute;
+	height:200px;
+}
+#home2{
+	top:200px;
+	right:100px;
+	position:absolute;
+	height:200px;
+}
+#home3{
+	width:350px;
+	top:300px;
+	left:500px;
+	position:absolute;
+}
+#anime1{
+	height:200px;
+	top:100px;
+	left:100px;
+	position:absolute;
+}
+#anime2{
+	height:200px;
+	top:100px;
+	right:100px;
+	position:absolute;
+}
+#anime3{
+	height:200px;
+	top:350px;
+	left:150px;
+	position:absolute;
+}
+#anime4{
+	height:200px;
+	top:350px;
+	right:150px;
+	position:absolute;
+}
+#anime5{
+	width:300px;
+	top:400px;
+	left:600px;
+	position:absolute;
+}
+#hobbies1{
+	height:200px;
+	top:100px;
+	left:100px;
+	position:absolute;
+}
+#hobbies2{
+	height:250px;
+	top:350px;
+	left:100px;
+	position:absolute;
+}
+#hobbies3{
+	height:100px;
+	top:100px;
+	right:100px;
+	position:absolute;
+}
+#hobbies4{
+	height:400px;
+	top:250px;
+	right:100px;
+	position:absolute;
+}
+#karate1{
+	height:400px;
+	top:250px;
+	left:500px;
+	position:absolute;
+}
+#coding1{
+	height:200px;
+	top:150px;
+	left:100px;
+	position:absolute;
+}
+#coding2{
+	height:200px;
+	top:150px;
+	right:100px;
+	position:absolute;
+}
+#coding3{
+	height:400px;
+	top:250px;
+	left:500px;
+	position:absolute;
+}
